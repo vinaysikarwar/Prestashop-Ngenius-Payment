@@ -1,0 +1,19 @@
+{
+    "name": "networkinternational/ngenius",
+    "description": "Hosted Payment Page with simple, secure and PCI DSS compliant.",
+    "authors": [
+        {
+            "name": "Network International",
+            "email": "https://www.network.ae/en"
+        }
+    ],
+    "autoload": {
+      "psr-4": {
+        "NGenius\\": "classes/"
+      },
+      "config": {
+        "prepend-autoloader": false
+      },
+      "type": "prestashop-module"
+    }
+}

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>ngenius</name>
+    <displayName><![CDATA[NGenius Online Payment Gateway]]></displayName>
+    <version><![CDATA[5.0.3]]></version>
+    <description><![CDATA[The payment gateway from NetworkInternational]]></description>
+    <author><![CDATA[Network International]]></author>
+    <tab><![CDATA[payments_gateways]]></tab>
+	<confirmUninstall><![CDATA[Are you sure you want to uninstall my module?]]></confirmUninstall>
+    <is_configurable>1</is_configurable>
+    <need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>
